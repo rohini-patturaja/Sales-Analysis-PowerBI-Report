@@ -1,16 +1,6 @@
 # 📊 Sales Analysis Dashboard – Power BI Project
 
----
-
-## 📌 Project Overview
-
-This Power BI dashboard provides comprehensive sales performance analytics across multiple business dimensions, enabling data-driven decision-making through interactive visualizations and real-time KPI tracking.
-
----
-
 ## 🎯 Business Problem
-
-### 📍 Context
 A multi-national retail organization operating across **5 countries** and **5 product segments** required centralized visibility into sales performance, profitability trends, and discount effectiveness.
 
 ### 🚨 Challenge
