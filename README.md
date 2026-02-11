@@ -94,14 +94,31 @@ Indicates strong business expansion trajectory.
 ---
 
 # Technical Implementation
+- ## Dashboard Features & Interactive Slicers
 
-##  Dashboard Features
+- **Interactive Slicers:**  
+  Managers and stakeholders can dynamically filter the dashboard to explore specific business scenarios. Available slicers include:  
+  - **Period** – View trends for any selected date range  
+  - **Segment** – Analyze individual product segments  
+  - **Country** – Compare sales across countries  
+  - **Product** – Drill into specific SKUs  
+  - **Discount Band** – Check the impact of High, Medium, Low, or No discounts on sales, profit, and margins  
 
-- Interactive slicers (Period, Segment, Country, Product)
-- Drill-through from summary to transaction-level
-- KPI cards with trend indicators
-- YOY and CY vs PY comparisons
-- Personalized views & dynamic date selection
+- **Drill-Through Capabilities:**  
+  Navigate from summary KPIs to detailed transaction-level analysis for deeper insights.
+
+- **KPI Cards:**  
+  Real-time metrics display with trend arrows and YoY comparisons.
+
+- **Dynamic Views for Managers:**  
+  Personalized filtering allows managers to see results relevant to their region, segment, or product line.
+
+- **Period Comparisons:**  
+  YOY and Current Year vs Previous Year analysis for quick performance benchmarking.
+
+- **Conditional Formatting:**  
+  Visual cues for discount efficiency, profit margins, and cost spikes, making trends immediately actionable.
+
 
 ---
 #  Data Model
