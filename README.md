@@ -1,11 +1,6 @@
-# From Spreadsheet Chaos to $2M in Hidden Savings  
 ## A Retail Analytics Transformation
 
----
-
-## The Problem Nobody Was Talking About
-
-Picture this: Five country managers sitting in a quarterly review meeting, each presenting different sales numbers for the same product.
+Five country managers sitting in a quarterly review meeting, each presenting different sales numbers for the same product.
 
 - One claimed profitability was up 15%.
 - Another showed a 3% decline.
